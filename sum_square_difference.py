@@ -8,5 +8,5 @@ def sum_square_difference(n):
     print(sum_of_squares)
     print(square_of_sums - sum_of_squares )
         
-sum_square_difference(100)
+sum_square_difference(100) 
         
